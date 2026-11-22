@@ -1,0 +1,6 @@
+# Versions the project was developed with: Python 3.8, torch 2.4.1 (+cu121), numpy 1.24, scipy 1.10, matplotlib 3.7
+# Newer versions should also work. For GPU training install the CUDA build of PyTorch from https://pytorch.org
+torch>=2.4.1
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
